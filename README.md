@@ -76,5 +76,5 @@ This project automates resume parsing and ranks candidates based on job descript
 ## 👨‍💻 Author
 Aditya Borkar  
 Aspiring Data Scientist | NLP | ML | SQL
-5. Similarity computation
-6. Ranking generation
+|Similarity computation
+|Ranking generation
